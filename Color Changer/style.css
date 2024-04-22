@@ -1,0 +1,92 @@
+html {
+  margin: 0;
+}
+ 
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: cornflowerblue;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+
+#white {
+  background: white;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#blue {
+  background: blue;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#yellow {
+  background: yellow;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#purple {
+  background : purple;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#pink {
+  background : pink;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#red {
+  background : red;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#violet {
+  background : violet;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+#orange {
+  background: orange;
+  align-items: center;
+  align-content: center;
+  color: black;
+  font-weight: bolder;
+}
+
+  
